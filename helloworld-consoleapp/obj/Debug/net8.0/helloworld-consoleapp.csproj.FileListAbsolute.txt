@@ -1,0 +1,14 @@
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\bin\Debug\net8.0\helloworld-consoleapp.exe
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\bin\Debug\net8.0\helloworld-consoleapp.deps.json
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\bin\Debug\net8.0\helloworld-consoleapp.runtimeconfig.json
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\bin\Debug\net8.0\helloworld-consoleapp.dll
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\bin\Debug\net8.0\helloworld-consoleapp.pdb
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\obj\Debug\net8.0\helloworld-consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\obj\Debug\net8.0\helloworld-consoleapp.AssemblyInfoInputs.cache
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\obj\Debug\net8.0\helloworld-consoleapp.AssemblyInfo.cs
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\obj\Debug\net8.0\helloworld-consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\obj\Debug\net8.0\helloworld-consoleapp.dll
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\obj\Debug\net8.0\refint\helloworld-consoleapp.dll
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\obj\Debug\net8.0\helloworld-consoleapp.pdb
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\obj\Debug\net8.0\helloworld-consoleapp.genruntimeconfig.cache
+C:\Users\LCY\Documents\CSharp\helloworld-consoleapp\obj\Debug\net8.0\ref\helloworld-consoleapp.dll

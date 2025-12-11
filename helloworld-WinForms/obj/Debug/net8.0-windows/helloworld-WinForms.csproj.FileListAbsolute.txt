@@ -1,0 +1,16 @@
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\bin\Debug\net8.0-windows\helloworld-WinForms.exe
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\bin\Debug\net8.0-windows\helloworld-WinForms.deps.json
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\bin\Debug\net8.0-windows\helloworld-WinForms.runtimeconfig.json
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\bin\Debug\net8.0-windows\helloworld-WinForms.dll
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\bin\Debug\net8.0-windows\helloworld-WinForms.pdb
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\obj\Debug\net8.0-windows\helloworld_WinForms.Form1.resources
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\obj\Debug\net8.0-windows\helloworld-WinForms.csproj.GenerateResource.cache
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\obj\Debug\net8.0-windows\helloworld-WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\obj\Debug\net8.0-windows\helloworld-WinForms.AssemblyInfoInputs.cache
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\obj\Debug\net8.0-windows\helloworld-WinForms.AssemblyInfo.cs
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\obj\Debug\net8.0-windows\helloworld-WinForms.csproj.CoreCompileInputs.cache
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\obj\Debug\net8.0-windows\helloworld-WinForms.dll
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\obj\Debug\net8.0-windows\refint\helloworld-WinForms.dll
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\obj\Debug\net8.0-windows\helloworld-WinForms.pdb
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\obj\Debug\net8.0-windows\helloworld-WinForms.genruntimeconfig.cache
+C:\Users\LCY\Documents\CSharp\helloworld-WinForms\obj\Debug\net8.0-windows\ref\helloworld-WinForms.dll
